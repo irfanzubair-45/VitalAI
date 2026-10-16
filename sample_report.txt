@@ -1,0 +1,4 @@
+Patient Name: John Doe
+Hemoglobin: 13.2 g/dL
+WBC: 7.0 x10E3/uL
+

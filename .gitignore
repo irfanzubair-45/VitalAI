@@ -1,0 +1,10 @@
+backend/venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.DS_Store
+node_modules/
+*.dylib
